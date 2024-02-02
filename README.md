@@ -15,7 +15,7 @@ Before transitioning into software development, I spent a year as a Certified Nu
 🌱 Seeking Opportunities in Backend Web Development
 Currently on the lookout for a role in Backend Web Development, leveraging my proficiency in Java and SQL. Eager to contribute to dynamic projects and continue my learning journey.
 
-🌱 What I Offer
+⚙️ What I Offer
 Proficiency in Java and SQL for developing robust applications.
 Hands-on experience with Spring Boot, PostgreSQL, and JUnit for building and testing back-end systems.
 Familiarity with essential development tools such as IntelliJ, pgAdmin, Git, and Maven.
