@@ -1,5 +1,5 @@
 👋 Hi, I'm Ethan Arvizo
-Aspiring Junior Java Developer | Open to New Opportunities
+
 
 I recently graduated from an intensive Java Development Bootcamp at Merit America, specializing in Backend Java Development. Passionate about creating efficient and scalable solutions, I bring hands-on experience with key technologies in the Java ecosystem.
 
