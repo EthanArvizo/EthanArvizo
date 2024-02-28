@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ethan Arvizo
 
-I recently graduated from an intensive Java Development Bootcamp at Merit America, specializing in Backend Java Development. Passionate about creating efficient and scalable solutions, I bring hands-on experience with key technologies in the Java ecosystem.
+Backend Java Developer with expertise gained from an intensive Java Development Bootcamp at Merit America. Passionate about crafting efficient and scalable solutions, I bring hands-on experience with key technologies in the Java ecosystem.
 
 ## 🚀 Technical Skills 
 - **Languages:** Java, SQL 
